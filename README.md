@@ -2,7 +2,7 @@
 
 ## Description
 
-This Project a clean and responsive react admin dashboard.
+This Project a clean and responsive react admin dashboard.</br>
 6hours took time to build the project.
 
 Used Technology :  [`ReactIcon`](https://react-icons.github.io/react-icons)<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/ReactJs-1fccf0?style=for-the-badge&logo=ReactJs&logoColor=blue"></a>
