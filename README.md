@@ -16,5 +16,5 @@ Used Website : [`GoogleFont`](https://fonts.google.com/) [`Video`](https://pixab
 ### 🖇️ Project Link 
  
 > | Project  | Description |
-| :---: | :---: |
-| Admin Dashboard  | [Link](https://mhdi-nzari.github.io/Admin-Dashboard-Using-ReactJS/)  |
+  | :---: | :---: |
+  | Admin Dashboard  | [Link](https://mhdi-nzari.github.io/Admin-Dashboard-Using-ReactJS/)  |
