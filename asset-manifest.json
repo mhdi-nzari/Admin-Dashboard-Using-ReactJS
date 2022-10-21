@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Admin-Dashboard-Using-ReactJS/static/css/main.a757d4db.css",
+    "main.js": "/Admin-Dashboard-Using-ReactJS/static/js/main.b7313297.js",
+    "static/media/video.mp4": "/Admin-Dashboard-Using-ReactJS/static/media/video.ad7f0000a528d93cc57d.mp4",
+    "static/media/profileOne.jpg": "/Admin-Dashboard-Using-ReactJS/static/media/profileOne.f04a061eaacb490a9756.jpg",
+    "static/media/plantTwo.png": "/Admin-Dashboard-Using-ReactJS/static/media/plantTwo.7ca4f208253f047c61ed.png",
+    "static/media/plantOne.png": "/Admin-Dashboard-Using-ReactJS/static/media/plantOne.0497a408e49159690e9b.png",
+    "static/media/plantThree.png": "/Admin-Dashboard-Using-ReactJS/static/media/plantThree.6f68672100155616df44.png",
+    "static/media/plantFour.png": "/Admin-Dashboard-Using-ReactJS/static/media/plantFour.52035e31e816e87fa0c4.png",
+    "static/media/plant1.png": "/Admin-Dashboard-Using-ReactJS/static/media/plant1.4d71ca625e4f4c2b2a2d.png",
+    "static/media/plantFive.png": "/Admin-Dashboard-Using-ReactJS/static/media/plantFive.8a4c3a6461a18be4d70c.png",
+    "static/media/profileThree.jpg": "/Admin-Dashboard-Using-ReactJS/static/media/profileThree.ca2d70444133777f47b8.jpg",
+    "static/media/profileSix.jpeg": "/Admin-Dashboard-Using-ReactJS/static/media/profileSix.b2c66d5b26ccf9a7cde8.jpeg",
+    "static/media/profileFive.jpg": "/Admin-Dashboard-Using-ReactJS/static/media/profileFive.f164f6ad47229b08ef1c.jpg",
+    "static/media/profileFour.jpg": "/Admin-Dashboard-Using-ReactJS/static/media/profileFour.e255d15688e8596dedcf.jpg",
+    "static/media/profileSeven.jpg": "/Admin-Dashboard-Using-ReactJS/static/media/profileSeven.4c5bf3ba60a15deabdfa.jpg",
+    "static/media/logo.png": "/Admin-Dashboard-Using-ReactJS/static/media/logo.224986ad1bc662c6e7b1.png",
+    "static/media/profileTwo.jpg": "/Admin-Dashboard-Using-ReactJS/static/media/profileTwo.8291336fc19247ce566a.jpg",
+    "index.html": "/Admin-Dashboard-Using-ReactJS/index.html",
+    "main.a757d4db.css.map": "/Admin-Dashboard-Using-ReactJS/static/css/main.a757d4db.css.map",
+    "main.b7313297.js.map": "/Admin-Dashboard-Using-ReactJS/static/js/main.b7313297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a757d4db.css",
+    "static/js/main.b7313297.js"
+  ]
+}
